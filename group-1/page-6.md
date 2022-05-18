@@ -4,6 +4,4 @@
 
 ```
 // Some code
-int phone = iphone;
-string name = 'robert';
 ```
