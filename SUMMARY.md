@@ -10,3 +10,7 @@
 * [Page 5](group-1/page-5.md)
 * [Page 6](group-1/page-6.md)
 * [Page 7](group-1/page-7.md)
+
+***
+
+* [Content Configuration](content-configuration.md)
