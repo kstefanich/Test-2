@@ -17,7 +17,7 @@ url link
 | Header 1        |               Header 2               |          Header 3 |
 | --------------- | :----------------------------------: | ----------------: |
 | something:clap: | ![](.gitbook/assets/rymedi-logo.png) | [.](./ "mention") |
-| woooooo         |              other stuff             |            :tada: |
+| woooooo         |           other stuff :joy:          |            :tada: |
 
 <details>
 
@@ -26,3 +26,5 @@ url link
 bloop
 
 </details>
+
+<img src=".gitbook/assets/file.drawing (1).svg" alt="hello" class="gitbook-drawing">
