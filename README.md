@@ -6,7 +6,11 @@ change request test
 // Some code
 // hi
 
-int name = 'robert'
+
 
 
 ```
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
