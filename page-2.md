@@ -1,14 +1,12 @@
 # Page 2
 
+{% embed url="https://rymedi.com/" %}
+
 testing
 
 {% tabs %}
 {% tab title="First Tab" %}
 // comment
-{% endtab %}
-
-{% tab title="Second Tab" %}
-
 {% endtab %}
 {% endtabs %}
 
